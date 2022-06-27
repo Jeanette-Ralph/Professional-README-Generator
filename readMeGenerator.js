@@ -38,7 +38,7 @@ If you have any further questions please reach out.
 
 Email: ${data.emailAddress}
 
-GitHub link: [${data.gitHubLink}](https://github.com/${data.gitHubLink}/)
+GitHub link: [${data.gitHubLink}](${data.gitHubLink})
 
 GitHub username: ${data.gitHubUsername}
 
