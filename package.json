@@ -1,0 +1,11 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "jeanette-ralph",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
